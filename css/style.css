@@ -221,7 +221,7 @@ a {
   }
   .searchFormSearchinput {
     flex: 1;
-    width: undefined;
+    width: initial;
   }
   .searchFormSubmitinputText {
     display: none;
@@ -241,7 +241,7 @@ a {
 .hostingWrapper, .hostingFavorite, .hostingMain {
   background-color: #F2F2F2;
   border-radius: 1.5rem;
-  padding: 2rem;
+  padding: 1rem;
 }
 
 .hosting {
@@ -291,7 +291,7 @@ a {
   margin: 0.25rem 0.75rem 0.25rem 0.75rem;
 }
 .hostingMainCardDescPrice {
-  font-weight: bols;
+  font-weight: bold;
 }
 .hostingMainCardGrade {
   margin: 0 0.75rem 0.25rem 0.75rem;
