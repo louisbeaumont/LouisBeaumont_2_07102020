@@ -92,7 +92,7 @@ a {
 .main {
   max-width: 1440px;
   margin: auto;
-  padding: 0 2rem;
+  padding: 0 1rem;
   box-sizing: border-box;
 }
 
@@ -309,7 +309,6 @@ a {
   display: grid;
   row-gap: 2rem;
   align-items: start;
-  grid-template-rows: auto repeat(3, 1fr);
 }
 .hostingFavoriteTitle {
   margin: 0;
